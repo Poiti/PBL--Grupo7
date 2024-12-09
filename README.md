@@ -29,6 +29,9 @@ O projeto consiste no monitoramento de movimentos de **extensão** e **flexão**
 - **`dashboard.py`**  
   Código para criar um **dashboard interativo** com as informações coletadas, registrando e armazenando o estado do paciente para futuras análises.
 
+- **`exemplo_sessions.csv`**  
+  Exemplo para rodar o dashboard e entender como a pagina funciona. Para testar colocar o nome do paciente como "exemplo".
+
 ---
 
 Sinta-se à vontade para contribuir ou enviar sugestões para melhorar o projeto! 😊
